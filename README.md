@@ -1,8 +1,6 @@
 # Bollinger Bands Trading Algorithm
 
-A sophisticated algorithmic trading system that implements the Bollinger Bands strategy with an interactive web interface for backtesting and visualization.
-
-![Bollinger Bands Strategy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bollinger_Bands.svg/1200px-Bollinger_Bands.svg.png)
+A algorithmic trading system that implements the Bollinger Bands strategy with an interactive web interface for backtesting and visualization.
 
 ## Overview
 
