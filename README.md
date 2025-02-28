@@ -110,26 +110,6 @@ The strategy's performance varies significantly across different stocks and mark
 - May underperform in strong trending markets
 - Parameter optimization is crucial for adapting to different assets
 
-## Future Improvements
-
-- Add more technical indicators (RSI, MACD, etc.)
-- Implement portfolio optimization for multiple assets
-- Add risk management features (stop-loss, position sizing)
-- Integrate with live trading APIs
-- Implement machine learning for parameter selection
-- Add more sophisticated performance metrics
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [yfinance](https://github.com/ranaroussi/yfinance) for providing historical market data
-- [Streamlit](https://streamlit.io/) for the interactive web interface
-- [Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/) for data processing
-- [Matplotlib](https://matplotlib.org/) and [Plotly](https://plotly.com/) for visualization 
